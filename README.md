@@ -1,7 +1,7 @@
 # Graph_clustering_Node2vec
 
 ### Graph
-<img src="Graph.jpg" width="650"><br />
+<img src="Graph.png" width="650"><br />
 
 ### Work Flow
 Graph created ---> Embedding generated ---> Clustered using embedding ---> Clusters Visualized
