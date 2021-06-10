@@ -19,3 +19,7 @@ Graph generation : StellerGraph</br>
 Embedding generation : GraphSAGE</br>
 Clustering : HDBSCAN</br>
 Dimension Reduction : PCA</br>
+
+#### Agglomerative:</br>
+Graph generation : Networkx</br>
+Clustering : Agglomerative hierarchical clustering </br>
