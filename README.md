@@ -1,4 +1,4 @@
-# Graph_clustering_Node2vec
+# Graph_clustering
 
 ### Graph
 <img src="Graph.png" width="650"><br />
